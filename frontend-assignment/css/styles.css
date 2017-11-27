@@ -1,0 +1,192 @@
+body{
+	font-family: Georgia;
+	font-size:13px;
+	color:#222222
+}
+
+.header{
+	height:80px;
+
+}
+
+.logo{
+    padding:10px;
+}
+
+.nav{
+	height:40px;
+	color: #ffffff;
+	font-size:15px;
+	background:#3355aa;
+}
+
+.btn-primary,.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active{
+    	border: 2px solid #0099cc;
+    	color: #0099cc;
+    outline: 1;
+    background:#3355aa;
+}
+.nav ul{
+	margin:0px;
+	padding: 10px 0px 0px 0px;
+}
+.nav a{
+	color: #ffffff;
+}
+
+.nav li{
+    margin:0px;
+    padding: 0px 10px 0px 10px;
+    border-right: 1px solid;
+}
+
+.announcementLi li{
+    margin:0px;
+    padding:10px 0px;
+    border-bottom: 1px solid #000000;
+}
+
+.announcementLi li:last-child{
+    border-bottom: 0px;
+}
+
+.form-control::-webkit-input-placeholder{
+  color: #3355aa;
+}
+
+.lowercontent{
+	background-color:#f2eeea;
+}
+
+.search form{
+	margin:5px 0px;
+	padding:0px;
+}
+
+.homeBannerImgPart{
+    margin:35px 0px 45px 10px;
+}
+
+.bannerImg{
+
+	border: 10px solid #fcfcfc;
+	border-radius:5px;
+	background-color:#fcfcfc;
+	box-shadow: 0px 0px 7px 2px #f2eeea;
+}
+
+.bannerImg img{
+    width:100%;
+}
+
+.bannerimg p{
+    font-size:14px;
+    margin:10px;
+}
+
+.heading{
+    color:#3355aa;
+    font-size:16px;
+    padding-bottom:10px;
+    border-bottom: 2px solid yellow;
+}
+.horizontalbar{
+    border: 2px solid #f79f2c;
+}
+
+.by{
+    font-size:10px;
+}
+.viewmore{
+    color:#3355aa;
+}
+
+.sectorheading{
+    margin:25px 0px;
+    align:center;
+    font-size:28px;
+}
+
+.sectorsname{
+    background-color:#ffffff;
+    color:#3355aa;
+    font-size:16px;
+    border-radius:10px;
+    margin: 0px;
+    padding:5px;
+}
+
+.boxes{
+    height:250px;
+    background-color:gray;
+
+}
+
+.bottomspacing{
+    margin-bottom:75px;
+}
+
+.footer{
+    background-color: #333333;
+    color:#ffffff;
+}
+
+.footer a{
+    color:#ffffff;
+}
+
+.footerleftmenus{
+    font-size:14px;
+}
+
+.footerrightmenus{
+    font-size:11px;
+}
+.footer ul{
+margin:0px;
+padding:15px 0px;
+}
+
+.footerbar{
+border: 1px solid #3d3d3d;
+}
+
+.microsavecopyright{
+    font-size:11px;
+    margin:15px 0px 35px 0px;
+}
+
+.virticalline{
+    height:10px;
+    width:1px;
+    background:#ffffff;
+}
+.vbarnav{
+    height:10px;
+    width:1px;
+    background:#ffffff;
+}
+
+.footerleftmenus li{
+    margin:0px;
+    padding: 0px 10px 0px 10px;
+    border-right: 1px solid;
+}
+
+.footerleftmenus li:first-child{
+    padding: 0px 10px 0px 0px;
+}
+
+.footerleftmenus li:last-child{
+    border-right:0px;
+}
+
+.footerrightmenus li{
+    margin:0px;
+    padding: 0px 10px 0px 10px;
+    border-right: 1px solid;
+}
+
+.footerrightmenus li:last-child{
+    border-right:0px;
+}
